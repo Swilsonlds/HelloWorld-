@@ -6,7 +6,7 @@ This program prints the phrase "Hello World!" to the terminal
 
 # Development Environment
 
-This program was written in Python and utilizes Python's "time" module in order to preform a 3 second countdown before printing "Hello World!"
+This program was written in Python and utilizes Python's "time" module in order to perform a 3 second countdown before printing "Hello World!"
 
 # Useful Websites
 
